@@ -1,5 +1,3 @@
-# [formula](index.html)
+# [kara](index.html)
 
-* [MathML](https://mdn.io/mathml)
-* [HTML](https://webmural.com/html)
-* [CSS](https://webmural.com/css)
+[kara stencil template](https://webmural.com/kara)
