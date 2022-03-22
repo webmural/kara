@@ -1,3 +1,3 @@
 # [kara](index.html)
 
-[kara stencil template](https://webmural.com/kara)
+[opensource](UNLICENSE.txt) [kara stencil](https://webmural.com/kara) [template](../../generate)
