@@ -6,6 +6,7 @@ body {
   display: flex;
   flex-flow: column;
   margin: auto;
+  overflow-wrap: anywhere;
 }
 
 main {
