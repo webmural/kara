@@ -17,6 +17,7 @@
 }
 
 :focus {
+  outline: thick groove;
   text-shadow:
     -5px 0 0 plum,
     3px 3px 0 plum,
