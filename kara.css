@@ -1,5 +1,5 @@
 html {
-  font-size: calc(1ex + 8vmax);
+  font-size: max(20pt, 12vmin);
 }
 
 body {
@@ -14,8 +14,4 @@ main {
   flex-flow: row;
   justify-content: center;
   min-height: 100vh;
-}
-
-math {
-  font-family: sans-serif;
 }
