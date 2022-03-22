@@ -8,11 +8,3 @@ body {
   margin: auto;
   overflow-wrap: anywhere;
 }
-
-main {
-  align-items: center;
-  display: flex;
-  flex-flow: row;
-  justify-content: center;
-  min-height: 100vh;
-}
